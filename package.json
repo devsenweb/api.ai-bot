@@ -1,0 +1,16 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^3.3.5",
+    "jade": "*",
+    "morgan": "^1.8.2",
+    "serve-favicon": "^2.4.3"
+  }
+}
